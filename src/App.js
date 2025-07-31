@@ -12,7 +12,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router basename="/AmericanLedPro">
+    <Router basename="/americanledusa">
       <div className="app">
         <Header />
         <main>
