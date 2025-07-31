@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/americanledusa/static/css/main.7f54041b.css",
-    "main.js": "/americanledusa/static/js/main.f4c99c6b.js",
-    "static/js/453.9fa04077.chunk.js": "/americanledusa/static/js/453.9fa04077.chunk.js",
-    "static/media/banner.jpg": "/americanledusa/static/media/banner.cd908c862fbbf618d6ff.jpg",
-    "index.html": "/americanledusa/index.html",
-    "main.7f54041b.css.map": "/americanledusa/static/css/main.7f54041b.css.map",
-    "main.f4c99c6b.js.map": "/americanledusa/static/js/main.f4c99c6b.js.map",
-    "453.9fa04077.chunk.js.map": "/americanledusa/static/js/453.9fa04077.chunk.js.map"
+    "main.css": "/static/css/main.7d59b0b8.css",
+    "main.js": "/static/js/main.e69df6ac.js",
+    "static/js/453.9fa04077.chunk.js": "/static/js/453.9fa04077.chunk.js",
+    "static/media/banner.jpg": "/static/media/banner.cd908c862fbbf618d6ff.jpg",
+    "index.html": "/index.html",
+    "main.7d59b0b8.css.map": "/static/css/main.7d59b0b8.css.map",
+    "main.e69df6ac.js.map": "/static/js/main.e69df6ac.js.map",
+    "453.9fa04077.chunk.js.map": "/static/js/453.9fa04077.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f54041b.css",
-    "static/js/main.f4c99c6b.js"
+    "static/css/main.7d59b0b8.css",
+    "static/js/main.e69df6ac.js"
   ]
 }
