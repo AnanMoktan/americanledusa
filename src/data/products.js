@@ -272,12 +272,13 @@ export const products = [
     id: 17,
     name: "10/15/20/25 FT 4 IN SQUARE AREA LIGHTNING POLE",
     price: 180,
-    image: process.env.PUBLIC_URL + "/products/pole-light/pole2.png",
+    image: process.env.PUBLIC_URL + "/products/pole-light/pole3.png",
     category: "pole-light",
     description: "",
     images: [
       process.env.PUBLIC_URL + "/products/pole-light/pole2.png",
       process.env.PUBLIC_URL + "/products/pole-light/pole.png",
+      process.env.PUBLIC_URL + "/products/pole-light/pole3.png",
     ],
   },
   {
@@ -290,6 +291,7 @@ export const products = [
     images: [
       process.env.PUBLIC_URL + "/products/pole-light/pole2.png",
       process.env.PUBLIC_URL + "/products/pole-light/pole.png",
+      process.env.PUBLIC_URL + "/products/pole-light/pole3.png",
     ],
   },
 
@@ -535,12 +537,12 @@ export const products = [
     price: 28,
     image:
       process.env.PUBLIC_URL +
-      "/products/accessories/90doublestraightarm/90dsa.webp",
+      "/products/accessories/90doublestraightarm/90dsa.png",
     category: "accessories",
     description: "",
     images: [
       process.env.PUBLIC_URL +
-        "/products/accessories/90doublestraightarm/90dsa.webp",
+        "/products/accessories/90doublestraightarm/90dsa.png",
     ],
   },
   {
@@ -683,10 +685,10 @@ export const products = [
     id: 46,
     name: "Round Tenon Adaptor 3/4/5 inch tenon options",
     price: 30,
-    image: process.env.PUBLIC_URL + "/products/accessories/roundtenon.webp",
+    image: process.env.PUBLIC_URL + "/products/accessories/roundtenon.png",
     category: "accessories",
     description: "",
-    images: [process.env.PUBLIC_URL + "/products/accessories/roundtenon.webp"],
+    images: [process.env.PUBLIC_URL + "/products/accessories/roundtenon.png"],
   },
 ];
 

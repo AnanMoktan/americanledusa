@@ -1,8 +1,8 @@
-// src/components/Header.js
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { FiMenu, FiX } from "react-icons/fi";
 import { categories } from "../data/products";
+import { FaPhone } from "react-icons/fa";
 
 const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -10,13 +10,32 @@ const Header = () => {
   return (
     <header className="header">
       <div className="header-container">
-        <div className="logo">
-          <Link to="/">
-            <img
-              src={process.env.PUBLIC_URL + "/logo/amercan LED PRO.png"}
-              alt="American LED pro Wholesale Logo"
-            />
-          </Link>
+        <div
+          className="logo-and-phone"
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+          }}
+        >
+          <div className="logo">
+            <Link to="/">
+              <img
+                src={process.env.PUBLIC_URL + "/logo/amercan LED PRO.png"}
+                alt="American LED pro Wholesale Logo"
+              />
+            </Link>
+          </div>
+          <div
+            style={{
+              color: "red",
+              marginTop: "4px",
+              fontWeight: "bold",
+              fontSize: "24px",
+            }}
+          >
+            <FaPhone /> 972-685-0112
+          </div>
         </div>
 
         <button
