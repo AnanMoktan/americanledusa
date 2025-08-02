@@ -64,6 +64,16 @@ const Header = () => {
             <li>
               <Link to="/contact">Contact</Link>
             </li>
+            <li>
+              <a
+                href="https://www.ebay.com/str/americanledpro"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ color: "#7de90be8", fontWeight: "bold" }}
+              >
+                eBay
+              </a>
+            </li>
           </ul>
         </nav>
       </div>
