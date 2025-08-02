@@ -69,7 +69,7 @@ const Header = () => {
                 href="https://www.ebay.com/str/americanledpro"
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ color: "#7de90be8", fontWeight: "bold" }}
+                style={{ color: "#0b98e9e8", fontWeight: "bold" }}
               >
                 eBay
               </a>
